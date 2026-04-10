@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Wemmbu",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "JudeESMP.aternos.me",
-    "port": 58987,
+    "ip": "PeaceESMPS2.aternos.me:21048",
+    "port": 21048,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "looking for a girlfriend",
+        "Selling netherite",
+        "buying gaps"
       ]
     },
     "chat-log": true,
